@@ -1,2 +1,2 @@
 #include <MsgBoxConstants.au3>
-msgbox(0,"Welcome","hello world")
+msgbox(0,"","hello world")
