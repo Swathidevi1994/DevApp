@@ -3,3 +3,5 @@ added this also
 addin this in deletebranch to see the sync
 #new text
 ###new text 2
+inserted using git command
+lets check in github web.
